@@ -1,0 +1,9 @@
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device_name: cpu
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: thenlper/gte-large
+INFO:chromadb.telemetry.product.posthog:Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+INFO:root:User Query: which course is recommended for beginners?
+INFO:root:Chatbot Response: Course 1: Blockchain Fundamentals
+INFO:root:User Query: how much does it cost?
+INFO:root:Chatbot Response: Original Price: $50.00  Discounted Price: $45.00
+INFO:root:User Query: how to make payment?
+INFO:root:Chatbot Response: You can make payments using the chatbot interface following these steps...
